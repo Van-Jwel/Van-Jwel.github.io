@@ -1,5 +1,4 @@
-* [首页](README)
-* [指南](guide.md)
+<!-- 导航栏 -->
   
 * 平面设计
     * [design](01/design/README.md)

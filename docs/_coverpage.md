@@ -1,14 +1,14 @@
 <!-- _coverpage.md -->
 
-![logo](/bg.jpg)
+<!-- ![pic](./pic/bg.jpg) -->
 
-# Think About AI <small>3.5</small>
 
-> A magical documentation site generator.
+  # **Jwel的设计空间**  <small>7.3</small>
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+  > 从零开始的设计之旅
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](README)
+  - **努力|坚持|盼望** 
+
+  [探索](README)
+
+
